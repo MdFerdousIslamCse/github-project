@@ -1,0 +1,926 @@
+ *{
+    margin: 0%;
+    padding: 0%;
+
+}
+body{
+    background-color: rgb(243, 241, 241);
+}
+.dwell h1{
+    font-size: 22px;
+    font-weight: 40px;
+    
+    
+    padding: 0%;
+    text-align: left;
+    text-decoration: none;
+    color: white;
+  height: auto;
+    width: 200px;
+    padding-left: 10px;
+
+}
+
+
+
+
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(110, 73, 73);
+    
+  }
+  
+  li {
+    float: right;
+    
+  }
+  a {
+    margin-right: 50px;
+    font-size: 23px;
+  
+  }
+  li a, .dropbtn {
+    display: inline-block;
+    color: rgb(216, 28, 28);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+  }
+
+
+  li.dropdown {
+    display: inline-block;
+  }
+  
+ 
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #0e0d0d;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+
+    
+   
+
+  }
+  
+  .dropdown-content a:hover {background-color: #afaaaa;
+
+    border-radius: 5px;
+
+}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ddl{
+    font-size: 25px;
+}
+
+
+.hading-im{
+
+
+margin-left: 220px;
+margin-top: -40px;
+display:inline;
+
+
+}
+.hading-im img{
+    height: 20px;
+width: 20px;
+margin-top: -50px;
+margin-bottom: 10px;
+padding: 5px 5px;
+}
+.home-bar{
+    text-align:right;
+    margin-top: -40px;
+}
+.home-bar a{
+    text-decoration: none;
+        padding: 5px 5px;
+        position:relative;
+       color: white;
+font-size: 19px;
+
+
+
+}
+
+.home-bar a:hover{
+    color:red;
+    font-size: 20px;
+}
+
+.maing{
+    border: 1px solid gray;
+    padding: 15px 10px;
+    position:relative;
+    background-color: rgb(139, 51, 51);
+
+
+
+
+
+
+
+}
+ .space{
+    border: 2px solid rgb(214, 59, 59);
+    width: 210px;
+    margin-top:-5px;
+    position: absolute;
+}
+
+
+.bimg img{
+    width: 100%;
+   height: auto;
+   
+  
+}
+
+.New-Properties{
+    margin-top: -450px;
+    text-align: center;
+   
+    font-size: 37px;
+    color: white;
+}
+.ties{
+    font-size: 13px;
+    color: white;
+    text-transform: uppercase;
+}
+.Explore {
+    text-align: center;
+
+}
+
+.Explore a{
+    
+        text-decoration: none;
+        border: 1px solid red;
+        padding: 10px 30px;
+            font-size: 20px;
+            color: white;
+            background-color: red;
+
+
+
+
+
+
+
+
+}
+/* home bar upore */
+
+.are{
+    text-align: center;
+     font-size: 12px;
+        margin-top: 300px;
+        font-weight: 70px;
+    word-spacing: 5px;
+    font-family: Cinzel;
+letter-spacing: 2px;
+
+
+
+
+}
+
+
+
+
+/* new */
+
+.home-im{
+    text-align: center;
+    gap:none;
+    padding-top: 40px;
+   display: block;
+   
+}
+.home-im img{
+   text-align: center;
+  
+
+}
+
+
+
+      /* new */
+
+.buys{
+    text-align: center;
+    margin-top: -250px;
+    padding-right: 600px;
+    display: block;
+}
+.buyq{
+    color: red;
+    text-decoration: none;
+    font-size: 60px;
+    display: block;
+    
+}
+
+.buyq:hover{
+    color: gray;
+}
+
+.rents{
+    text-align: center;
+   margin-top: -70px;
+    padding-left: 550px;
+   
+}
+.rent{
+    color: red;
+    text-decoration: none;
+    font-size: 60px;
+}
+.rent:hover{
+    color: gray;
+}
+
+/* new */
+
+.new-pro{
+    text-transform: uppercase;
+    font-size: 22px;
+      text-align: center;
+      margin-top: 250px;
+}
+.sale{
+    font-size: 25px;
+    text-align: center;
+   margin-top: 10px;
+}
+
+
+/* new */
+
+
+/* photr jonno css cord souru 
+
+*/
+.thatdh-im{
+    text-align: center;
+        gap:30px;
+       
+
+
+}
+.thatdh-imgs{
+    gap:20px;
+    padding: 20px 30px;
+    height: 250px;
+    width: 400px;
+    
+    
+}
+.rece{
+    display: flex;
+}
+
+/* new */
+
+
+.buy{
+
+    margin-top: -47px;
+  padding-right:768px; 
+  text-align: center;
+  }
+  .buy1{
+    border: 1px solid red;
+    width: 100px;
+    justify-items: center;
+    background-color: red;
+    color: white;
+  text-decoration: none;
+  font-size: 20px;
+  
+  }
+
+
+  .buys2{
+
+    margin-top: -23px;
+  padding-left: 160px;
+  text-align: center;
+  padding-bottom: 20px;
+  }
+  .buy3{
+    border: 1px solid red;
+    width: 100px;
+    justify-items: center;
+    background-color: red;
+    color: white;
+  text-decoration: none;
+  font-size: 20px;
+  
+  }
+
+
+/* new */
+ 
+ 
+
+
+
+
+/* next */
+
+
+
+.perry1{
+
+font-size: 30px;
+
+
+text-align:center;
+padding-right: 620px;
+padding-top: 25px;
+
+}
+.perry1:hover{
+    color: rgb(196, 59, 59);
+    transition: 1s;
+}
+.perry2{
+text-align: center;
+font-size: 18px;
+padding-right: 660px;
+color: rgb(75, 65, 65);
+}
+
+.perry3{
+    text-align: center; 
+    font-size: 18px;
+    padding-right: 780px;
+  color: rgb(75, 65, 65);
+}
+
+/* next part 2 */
+
+ .frist-div1{
+    padding-bottom: 200px;
+}
+.perry4{
+
+    font-size: 30px;
+    
+    text-align:center;
+    padding-left: 380px;
+    padding-top: 10px;
+   
+    margin-top: -330px;
+    
+    }
+    .perry4:hover{
+        color: rgb(161, 56, 56);
+        transition: 1s;
+    }
+
+    .perry5{
+    text-align: center;
+    font-size: 18px;
+   padding-left: 265px;
+   padding-top: 20px;
+    color: rgb(75, 65, 65);
+  
+    }
+    
+    .perry6{
+        text-align: center; 
+        font-size: 18px;
+       padding-left: 148px;
+       padding-top: 20px;
+      color: rgb(75, 65, 65);
+      
+    }
+
+   
+
+
+     .icoms{
+        display:inline;
+        width: 40px;
+        height: 40px;
+        padding: 20px 25px;
+        
+     }
+     .incons{
+        text-align: center;
+        padding-right: 530px;
+     }
+
+     .beds-bls{
+      display:flex;
+       justify-content: center;
+        margin-left: -520px;
+     }
+     .beds-blss{
+        
+        padding: 10px 25px;
+        color:rgb(75, 65, 65) ;
+        font-size: 20px;
+        
+        
+     }
+
+     .beds-blssd{
+        display:flex;
+         justify-content: center;
+          margin-left: -510px;
+       }
+
+     .beds-blsss{
+        
+        padding: 10px 45px;
+        color:rgb(75, 65, 65) ;
+        font-size: 20px;
+        
+        
+     }
+
+
+     /* or */
+     .icomsn{
+        display:inline;
+        width: 40px;
+        height: 40px;
+        padding: 20px 25px;
+        
+     }
+     .inconss{
+        text-align: center;
+        padding-left: 400px;
+        margin-top: -210px;
+     }
+
+     .beds-blst{
+      display:flex;
+       justify-content: center;
+        margin-left: 420px;
+     }
+     .beds-blssr{
+        
+        padding: 10px 25px;
+        color:rgb(75, 65, 65) ;
+        font-size: 20px;
+        
+        
+     }
+
+     .beds-blssdg{
+        display:flex;
+         justify-content: center;
+          margin-left: 430px;
+       }
+
+     .beds-blsssf{
+        
+        padding: 10px 45px;
+        color:rgb(75, 65, 65) ;
+        font-size: 20px;
+        
+        
+     }
+
+
+
+
+
+     /*  photr jonno css cord akhan theke ses 
+     
+     */
+
+
+     /* next */
+      .maj-line{
+        border: 1px solid  rgb(75, 71, 71);
+        width: 0rem;
+     justify-items: center;
+     margin-left: 50%;
+     height: 600px;
+     margin-top: -605px;
+     } 
+/* hight */
+     
+
+
+
+
+ 
+.view-or{
+
+
+
+margin-top: 150px;
+text-align: center;
+padding-left:40px;
+}
+.view-or a{
+    border: 1px solid red;
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    text-align: center;
+    padding: 15px 15px;
+
+    border-radius: 10px;
+    
+} */
+
+.view-or a:hover{
+    background-color: rgb(49, 47, 47);
+    color: red;
+    transition: 1s;
+}
+
+
+ .or-line{
+    border: 1px solid rgb(10, 0, 0);
+    height: 0px;
+    width: 80%;
+   margin-top: 40px;
+   
+   
+   text-align: center;
+} 
+.bahirs{
+   justify-items:center ;
+ 
+}
+
+
+
+
+/* 
+ ai khane abar 
+ secent line img all deya holo
+  and nice css cord lekha holo na 2 tar aktai cord -->
+
+
+<!-- new phoror jonno html cords suru -->
+  */
+
+
+
+
+
+
+
+.Properties{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding-top: 40px;
+
+}
+
+.bmw{
+    text-align: center;
+        font-size: 40px;
+        padding: 20px 20px;
+} 
+  
+
+
+ /* marj lain ar jonno bebohar kora hoice
+2 part */
+/* 
+.majsq-line{
+    border: 1px solid  rgb(75, 71, 71);
+    width: 0rem;
+ justify-items: center;
+ margin-left:0%;
+ height: 600px;
+ margin-top: -605px;
+ } 
+ 
+.margg{
+    border: 1px solid  rgb(75, 71, 71);
+    width: 0rem;
+ justify-items: center;
+ margin-left:0% ;
+ height: 600px;
+ margin-top: -605px;
+ }   */
+
+
+
+/* next */
+
+
+.last-more{
+    text-align:center;
+    text-decoration: none;
+    border: 1px solid red;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color:white;
+    background-color: red;
+}
+
+
+
+ .more-view{
+    text-align: center;
+    margin-top: 50px;
+margin-bottom: 50px;
+padding-left: 50px;
+
+ }
+ .last-more:hover{
+    background-color: rgb(65, 58, 58);
+    color: red;
+    transition:1s ;
+    border:1px solid yellow;
+    border-radius: 10px;
+    
+}
+
+.stories h1{
+    text-align: center;
+     word-spacing: 6px;
+     letter-spacing: 3px;
+     text-transform: uppercase;
+}
+
+
+
+
+.easy{
+
+   
+    width: 1100px;
+    height: 150px;
+    padding-top: 30px;
+text-align: center;
+padding-bottom: 100px;
+background-color: darkgray;
+  
+}
+.easy p{
+    padding-bottom: 40px;
+    padding-top: 30px;
+    font-size: 20px;
+  
+}
+.parant-div{
+   justify-items: center;
+}
+
+
+.one-step{
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+
+/* new */
+
+
+
+.call-us{
+ text-align: center;
+ padding-right: 900px;
+ 
+    
+}
+
+
+
+.Direct{
+    width: 40px;
+    height: 40px;
+}
+
+.call-uss{
+    text-align: center;
+   margin-top: -123px;
+    
+       
+   }
+   .calll-us{
+    text-align: center;
+   margin-top: -123px;
+   padding-left: 900px; 
+    
+       
+   }
+
+
+
+
+   .your-dream{
+ 
+    padding-top: 50px;
+    margin-top: 50px;
+    padding-bottom: 120px;
+    background-color: rgb(207, 203, 191);
+
+   
+   }
+
+
+   /* next */
+
+
+.contact{
+    font-size: 30px;
+    font-family: Arial, ;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+text-align: center;
+padding: 20px 20px;
+padding-top: 40px;
+padding-bottom: 30px;
+color: white;
+
+}
+
+
+  .text-home{
+    font-size: 10px;
+    font-family: arial,;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+    text-align: left;
+    padding-left: 200px;
+    color: white;
+
+  }
+
+  .home-text{
+    padding-top: 30px;
+    padding-left: 200px;
+    font-family: Helvetica,;
+    color: white;
+
+  }
+
+.all-formst input {
+    justify-items: center;
+    font-size: 20px;
+    padding: 20px 20px;
+    border:none;
+    border-bottom: 1px solid black;
+    margin-left: 800px;
+
+}
+label{
+    text-align: center;
+    margin-left: 800px;
+    color: wheat;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.submits{
+    text-align: center;
+    padding: 10px 30px;
+    
+    color: red;
+}
+
+.submitst{
+    text-align: center;
+    padding-left: 500px;
+    margin-top: 30px;
+   
+
+}
+
+
+/* new constact gropping */
+
+
+.constaact-groping{
+ 
+    padding-bottom: 40px;
+    padding-top: 30px;
+    background-color: rgb(55, 55, 73);
+}
+.constaact-groping:hover{
+    border: 1px solid yellow;
+    background-color:rgb(67, 66, 90); ;
+}
+
+.dwell{
+    
+    font-size: 20px;
+
+}
+.ita{
+    font-size: 15px;
+    font-weight: 25px;
+    letter-spacing: 3px;
+}
+.dwell-prop{
+   text-align: center;
+  padding-top: 40px;
+  padding-right: 800px;
+  color: white;
+}
+/* next */
+ .home-link-contaner a{
+    text-decoration: none;
+    text-align: center;
+    display:block;
+    padding: 10px 10px;
+
+ color:white
+ }
+ .treey-francine {
+ text-align: center;
+    
+    padding-left: 550px;
+    margin-top: -140px;
+    color: white;
+  
+ } 
+    .treey-francines{
+padding: 10px 10px;
+
+
+display: block;
+    }
+
+    .treey-franciness{
+        padding-right: 60px;
+    }
+
+
+    .last-linepowered{
+        font-size: 12px;
+        line-height: 30px;
+     padding: 30px 20px;
+     margin-top: 30px;
+        text-align: center;
+        padding-right: 550px;
+        color: white;
+    }
+
+    /* futar icons */
+    .hading-ims{
+
+  display: inline;
+      
+    padding-left: 850px ;
+      
+        }
+        .hading-ims img{
+            height: 20px;
+        width: 20px;
+        padding: 5px 5px;
+        
+        }
+
+
+        .last-allitem-borde{
+            
+            padding-bottom: 50px;
+            background-color: rgb(132, 132, 207);
+        }
